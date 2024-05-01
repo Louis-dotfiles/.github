@@ -1,6 +1,6 @@
 # Louis' dotfiles
 
-This organisation is a way for me to group my dotfiles on Github, it is a workaround the lack of proper groups on the platform.
+This organisation is a way for me to group my [dotfiles](https://wiki.archlinux.org/title/Dotfiles) on [Github](https://github.com/Louis-dotfiles), it is a workaround the lack of proper groups on the platform.
 
 # TODOs
 
